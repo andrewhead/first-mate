@@ -10,8 +10,7 @@
     "oniguruma": "^6.1.0",
     "oniguruma-js": "andrewhead/oniguruma-js",
     "season": "^5.0.2",
-    "underscore-plus": "^1",
-    "xregexp": "^4.0.0"
+    "underscore-plus": "^1"
   },
   "description": "TextMate helpers",
   "devDependencies": {
